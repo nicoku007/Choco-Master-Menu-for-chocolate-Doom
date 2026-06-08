@@ -1,18 +1,36 @@
 # Choco-Master-Menu-for-chocolate-Doom
 Choco-Master-Menu for Chocolate Doom. (Iwads, custom wads, Master Levels, Maximum Doom).
 
-Choco-Master-Menu is a launcher I created for Chocolate Doom. My main idea was to create a menu for the Master Levels in Chocolate Doom, because there isn't anything like Doom-it for this source port, but as I progressed with the launcher, I decided to add some more features such as multiplayer, the ability to play with custom WADs, Maximum Doom, recording demos, etc.
+Description: Choco-Master-Menu is a launcher I created for Chocolate Doom. My main idea was to create a  menu for the Master Levels in Chocolate Doom, because there isn't anything like  Doom-it for this source port,  but as I progressed with the launcher, I decided to add some more features such as multiplayer, the possibility  of playing with custom wads, Maximum Doom,  recording demos, etc.  The launcher was created using the C# programming language.                       
+     
+Launcher features:
 
-INSTRUCTIONS: 
+Iwads: the possibility of choosing the Iwad to play without the need to enter chocolate-doom.setup to configure a specific Iwad or to have 4 folders with their respective Iwad.
 
-1: All you have to do is put Choco-Master-Menu.exe in the same directory where you have chocolate-  doom.exe. The menu  offers   options for parameters, multiplayer, running your own  WADs, etc.  
+Custom wads: the possibility to search for and play with community WADs, you can also combine different WADs if the game requires it, for example: Back to SaturnX "btsx_e1a.wad + btsx_e1b.wad", mix MIDI or MUS files with a WAD if a WAD has it, Hell Revealed: "HR.WAD + HRMUS.WAD" or also you can use DEH files for a WAD that uses special textures, "1k3v1a.wad +  1k3v1a.deh".
+
+Master Levels Menu: The launcher has a menu for playing the Master Levels for Doom 2, eliminating the need to enter cumbersome parameters in the command line to select each map. The menu also includes the Master MIDI Pack to add musical variety to the levels. (Thanks to Peter Lawrence for allowing me to use the MIDI Pack for the menu.).
+
+Maximum Doom: The launcher has a session for Maximum Doom, the wads are separated into "maximum Doom 1" and "Maximum Doom 2" and are programmed to work only with their own  Iwad "DOOM.WAD" or "DOOM2.WAD".
+
+Multiplayer: The menu includes options for multiplayer, cooperative deathmatch, deathmatch 2.0, private server, setting your server name, UDP port, auto join, as well as using server address. The menu includes multiplayer options, cooperative deathmatch, deathmatch 2.0, private server, server name, UDP port, auto-join, and server address. Each menu session has multiplayer options that only work for that session to prevent errors.
+
+Parameters: Each menu session has parameters to modify the game if you wish. These include: No monsters, Fast monsters, Respawn monsters, and Turbo.
+
+Demo: Each session has the option to record and view demos of your games; the "Demo File" button is used to search for the lmp files you have created.
+
+Master Server and Locar Search: the possibility of viewing the Chocolate Doom master server or searching for a server in the local area.
+
+INSTRUCTIONS:                                                                 
+  
+1: All you have to do is put Choco-Master-Menu.exe in the same directory where you have chocolate-doom.exe. 
  
-2: You need the Master Levels wads, Put the Master Levels wads inside the folder called "master-wads".
+2: You need the Master Levels wads, Put the Master Levels wads inside the folder called "master-wads", the folder is included in the zip file.
 
-3: You can play the Master Levels with Peter Lawrence's Master Levels MIDI Pack, the MIDI pack is included in   the menu.    (Thanks to Peter for letting me use the MIDI pack to add musical variety to the menu.)
-
-4: Put the maximum doom wads corresponding to DOOM 1 inside the folder called "maximum1" and the wads  corresponding to DOOM 2 inside "maximum2". 
-
-5: You can also play any iwad you want, just put Doom, Doom II, TNT and Plutonia in the same directory  where you have chocolate-doom.exe, that way, you won't need to have the iwads in different folders and if  you have plutmidi.wad, the menu will detect it automatically.
+3: Put the maximum doom wads corresponding to DOOM 1 inside the folder called "maximum1" and the wads  corresponding to DOOM 2 inside "maximum2". The folders are included in the  zip file.
+ 
+4: Put the iwads in the same directory: "DOOM.WAD, DOOM2.WAD, TNT.WAD, and PLUTONIA.WAD". This way you can select them from the menu without having to go into chocolate- doom.setup and if you have plutmidi.wad in the same directory, the menu will detect it automatically.
 
 Choco-Master-Menu by Nicokugame007.
+ 
+Credit for the Master Midi pack goes to Peter Lawrence.
