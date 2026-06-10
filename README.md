@@ -7,7 +7,7 @@ Launcher features:
 
 Iwads: the possibility of choosing the Iwad to play without the need to enter chocolate-doom.setup to configure a specific Iwad or to have 4 folders with their respective Iwad.
 
-Custom wads: the possibility to search for and play with community WADs, you can also combine different WADs if the game requires it, for example: Back to SaturnX "btsx_e1a.wad + btsx_e1b.wad", mix MIDI or MUS files with a WAD if a WAD has it, Hell Revealed: "HR.WAD + HRMUS.WAD" or also you can use DEH files for a WAD that uses special textures, "1k3v1a.wad +  1k3v1a.deh".
+Custom wads: The possibility of playing with custom WADs from the community or your own (vanilla  compatible of course), you can also combine different WADs if the game requires it, for example: Back to  SaturnX "btsx_e1a.wad + btsx_e1b.wad", mix MIDI or MUS files with a WAD if a WAD has it, Hell Revealed: "HR.WAD + HRMUS.WAD" or also you can use DEH files for a WAD that uses special textures, "1k3v1a.wad +   1k3v1a.deh".
 
 Master Levels Menu: The launcher has a menu for playing the Master Levels for Doom 2, eliminating the need to enter cumbersome parameters in the command line to select each map. The menu also includes the Master MIDI Pack to add musical variety to the levels. (Thanks to Peter Lawrence for allowing me to use the MIDI Pack for the menu.).
 
